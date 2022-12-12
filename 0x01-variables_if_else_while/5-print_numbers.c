@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- * Main - print all single digit numbers to the base 10
+ * main - print all single digit numbers to the base 10
  *
- * Retun: 0 (Success)
+ * return: 0 (Success)
  *
  */
 int main(void)
+
 {
 	int x;
 
@@ -19,5 +20,6 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+
 
 }
