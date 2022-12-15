@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * void print_alphabet_x10 --print lower case of alpabets ten times
+ * print_alphabet_x10 --print lower case of alpabets ten times
  *
  * Return: always 0 (success)
  *
